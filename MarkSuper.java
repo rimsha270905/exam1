@@ -8,7 +8,6 @@ class Teacher extends Hod
  	void displayMark()
 	{
 		System.out.println(Mark is +totalmark);
-		System.out.println(Mark is +totalmark);
 		System.out.println(Mark from Super Class +super.totalmark);
 	}
 }
